@@ -1,0 +1,8 @@
+.success_class,.danger_class{
+    width: 20%;
+    position:fixed;
+    bottom: 0%;
+    right: 0%;
+    margin: 10px;
+    display: none;
+}
